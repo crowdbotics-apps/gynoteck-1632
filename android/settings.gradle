@@ -1,0 +1,3 @@
+rootProject.name = 'gynoteck_1632'
+
+include ':app'
